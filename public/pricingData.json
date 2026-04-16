@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": 999,
+    "duration": "Monthly",
+    "description": "Perfect for beginners who want to stay active and build a fitness habit.",
+    "features": [
+      "Access to gym equipment",
+      "Locker facility",
+      "Free WiFi",
+      "1 group class per week",
+      "Basic fitness assessment",
+      "Access to cardio zone",
+      "Open hours access (6AM - 10PM)"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": 1999,
+    "duration": "Monthly",
+    "description": "Best for regular gym-goers who want structured workouts and better results.",
+    "features": [
+      "All Basic features",
+      "Unlimited group classes",
+      "Diet chart guidance",
+      "Personalized workout plan",
+      "Progress tracking (monthly)",
+      "Access to strength training zone",
+      "Guest pass (2 per month)",
+      "Priority locker access"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": 3499,
+    "duration": "Monthly",
+    "description": "Designed for serious fitness enthusiasts who want maximum results and premium facilities.",
+    "features": [
+      "All Standard features",
+      "Dedicated personal trainer",
+      "Customized diet & workout plan",
+      "Weekly progress tracking",
+      "Steam & sauna access",
+      "24/7 gym access",
+      "Supplement guidance",
+      "Injury prevention support",
+      "VIP support & priority booking"
+    ]
+  }
+]
