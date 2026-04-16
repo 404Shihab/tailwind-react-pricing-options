@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Rahim",
+    "subjects": {
+      "math": 85,
+      "physics": 78,
+      "chemistry": 82
+    }
+  },
+  {
+    "id": 2,
+    "name": "Karim",
+    "subjects": {
+      "math": 72,
+      "physics": 69,
+      "chemistry": 75
+    }
+  },
+  {
+    "id": 3,
+    "name": "Ayesha",
+    "subjects": {
+      "math": 91,
+      "physics": 88,
+      "chemistry": 90
+    }
+  },
+  {
+    "id": 4,
+    "name": "Nusrat",
+    "subjects": {
+      "math": 66,
+      "physics": 70,
+      "chemistry": 68
+    }
+  },
+  {
+    "id": 5,
+    "name": "Hasan",
+    "subjects": {
+      "math": 80,
+      "physics": 76,
+      "chemistry": 79
+    }
+  },
+  {
+    "id": 6,
+    "name": "Sadia",
+    "subjects": {
+      "math": 95,
+      "physics": 92,
+      "chemistry": 94
+    }
+  },
+  {
+    "id": 7,
+    "name": "Tanvir",
+    "subjects": {
+      "math": 60,
+      "physics": 65,
+      "chemistry": 63
+    }
+  },
+  {
+    "id": 8,
+    "name": "Mim",
+    "subjects": {
+      "math": 88,
+      "physics": 84,
+      "chemistry": 86
+    }
+  },
+  {
+    "id": 9,
+    "name": "Arif",
+    "subjects": {
+      "math": 74,
+      "physics": 71,
+      "chemistry": 73
+    }
+  },
+  {
+    "id": 10,
+    "name": "Jannat",
+    "subjects": {
+      "math": 82,
+      "physics": 79,
+      "chemistry": 81
+    }
+  }
+]
